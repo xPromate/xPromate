@@ -1,4 +1,4 @@
-### Olá sê bem vindo! 👋
+### Hey,  welcome! 👋
 
 <a href="https://www.instagram.com/joaomoreira2303/">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1E4174?style=for-the-badge&logo=Instagram&logoColor=white" />
