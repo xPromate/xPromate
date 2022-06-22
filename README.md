@@ -23,6 +23,6 @@ My github languages stats:
 
 Personal interests:
 
--   🎮 Gaming (League of Legends , Rocket League , Counter-Strike , FIFA)
+-   🎮 Gaming with friends (League of Legends , Rocket League , Counter-Strike , FIFA)
 -   💡 Hardware (CPU's , GPU's , RAM's)
 -   🥅 Sports (Football , Five-a-side soccer)
